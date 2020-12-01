@@ -1,5 +1,5 @@
 # medic-tf2-joke
-# | #
+\# | \#
 - | -
 Compiler | Borland Delphi 7
 Author | Diicorp95
