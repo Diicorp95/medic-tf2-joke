@@ -1,6 +1,6 @@
 # medic-tf2-joke
-\# | \#
-- | -
+General information
+-------------------
 Compiler | Borland Delphi 7
 Author | Diicorp95
 License | [MIT license](https://mit-license.org/)
