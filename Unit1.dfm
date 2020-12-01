@@ -4255,6 +4255,7 @@ object Form1: TForm1
       808000808000808000808000808000805756}
   end
   object Timer1: TTimer
+    Enabled = False
     Interval = 3211
     OnTimer = Timer1Timer
     Left = 208
